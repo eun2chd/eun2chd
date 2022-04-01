@@ -21,3 +21,4 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </p>
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&fontSize=80)
