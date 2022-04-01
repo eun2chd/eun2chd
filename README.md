@@ -25,8 +25,7 @@
  
   <p align = "center">
     	<img src = "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-      <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-
+      <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </p>
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungEunChong&show_icons=true&theme=radical)
