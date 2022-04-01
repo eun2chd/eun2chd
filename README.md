@@ -27,5 +27,7 @@
     	<img src = "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
       <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </p>
----
+
+<p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api?username=eun2chd&show_icons=true&theme=radical">
+</p>
