@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=green&text=SeungEunChong%20%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeoneEunChong%20render&fontSize=90)
