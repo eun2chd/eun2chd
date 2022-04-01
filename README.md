@@ -2,7 +2,7 @@
 
 
 
-<h3 align = "center">Tech Stack<h3>
+<h3 align = "center">Tech Stack</h3>
   
 <p align = "center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -20,5 +20,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </p>
+  
+  <h3 align = "center">About me</h3>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&fontSize=80)
