@@ -28,4 +28,4 @@
       <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </p>
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungEunChong&show_icons=true&theme=radical)
+  <img src = "https://github-readme-stats.vercel.app/api?username=SeungEunChong&show_icons=true&theme=radical">
