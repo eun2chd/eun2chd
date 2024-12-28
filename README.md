@@ -46,9 +46,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=eun2chd&theme=radical" alt="GitHub Activity Graph">
 </div>
-
----
-
-<div align="center">
-  <h3>🎯 "Continuous Improvement is Better than Delayed Perfection" 🎯</h3>
-</div>
