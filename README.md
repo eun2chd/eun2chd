@@ -43,7 +43,3 @@
   </a>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=eun2chd&theme=radical" alt="GitHub Activity Graph">
-</div>
